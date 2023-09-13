@@ -14,4 +14,4 @@ requirements.txt
 
 # Игнорировать папки:
 old/
-вше__pycache__
+__pycache__
